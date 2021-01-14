@@ -1,0 +1,4 @@
+.env
+checkpoints/
+data/video/DEMO_PTZ.avi
+.idea/
